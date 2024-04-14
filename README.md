@@ -29,3 +29,9 @@
 10- Now, open the "MainController.java" file, that is in the "controllers" folder in the Web Project and run it.
 
 11- You can now navigate throught our app!
+
+## Team
+ - Óscar Delgado Rueda: https://www.linkedin.com/in/óscar-delgado-rueda-579834228/
+ - Eduardo Ruiz Martinez: https://www.linkedin.com/in/eduardo-ruiz-martinez-0b7a27271/
+ - Arnau Camarero Liebanes: https://www.linkedin.com/in/arnau-camarero-liebanes-23a365269/
+ - Víctor Alcaide Rodríguez: https://www.linkedin.com/in/víctor-alcaide-rodríguez-272895253/
