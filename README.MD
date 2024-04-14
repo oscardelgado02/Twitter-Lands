@@ -2,7 +2,7 @@
  Twitter Lands is a web page project that is really similar to Twitter, but it is organized by countries and users can add events and recommendations to each country.
 
 <div align="center">
-<img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/TwitterLands-Preview.png" align="center" style="width: 80%" />
+<img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/Twitter-Lands-Preview.png" align="center" style="width: 80%" />
 </div>
 <br>
 
