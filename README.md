@@ -6,7 +6,7 @@
 </div>
 <br>
 
-## Steps to install properly
+## Steps to make the webpage work:
 
 1- Open MYSQL.
 
